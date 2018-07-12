@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "57596453779",
+    "firebase_url": "https://palmproject-42c7d.firebaseio.com",
+    "project_id": "palmproject-42c7d",
+    "storage_bucket": "palmproject-42c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57596453779:android:853a794ea32a7d33",
+        "android_client_info": {
+          "package_name": "com.example.android.eyobconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57596453779-a4m1sbmspsf44vk28a35idi9ttr264r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.eyobconnect",
+            "certificate_hash": "52b5f6edb337602b41034567fd355bcd4badbbed"
+          }
+        },
+        {
+          "client_id": "57596453779-p0guhmto2ngplseaqrbjn788v25vt92i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7un2UtMfv-PSyLRtmMxHrB9bFVvEGopE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57596453779-p0guhmto2ngplseaqrbjn788v25vt92i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
